@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la [[:digit:]]* .*[characters]
+ls -la -d [[:digit:]]* .* *.*
