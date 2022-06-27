@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir dir.js && touch dir.js/sub.js main.js
+mkdir test_dir test_dir/photos test_dir/rep.gif
