@@ -23,3 +23,4 @@
 ## Task 20:  Create a script that removes all letters c and C from input.
 ## Task 21:  a script that reverse its input.
 ## Task 22:  a script that displays all users and their home directories, sorted by users.
+## Task 100: Write a command that finds all empty files and directories in the current directory and all sub-directories.
