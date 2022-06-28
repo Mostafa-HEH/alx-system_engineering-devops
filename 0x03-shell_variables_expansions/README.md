@@ -20,3 +20,4 @@
 - Task 100 script converts a number from base 10 to base 16.
 - Task 101 script encodes and decodes text using the rot13 encryption. Assume ASCII.
 - Task 102 script prints every other line from the input, starting with the first line.
+- Task 103 script adds the two numbers stored in the environment variables WATER and STIR and prints the result.
