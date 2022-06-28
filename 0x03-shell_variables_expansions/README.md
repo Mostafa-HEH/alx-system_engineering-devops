@@ -1,4 +1,6 @@
-## Project 0x03. Shell, init files, variables and expansions at Weak #3 Tue, 28 Jun 2022
+# Project 0x03. Shell, init files, variables and expansions at Weak #3 Tue, 28 Jun 2022
+
+## Mandatory Tasks
 - Task 0 script creates an alias.
 - Task 1 script that prints hello user, where user is the current Linux user.
 - Task 2 Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
@@ -13,3 +15,6 @@
 - task 11 script converts a number from base 2 to base 10.
 - Task 12 script prints all possible combinations of two letters, except oo.
 - Task 13 script prints a number with two decimal places, followed by a new line.
+
+## Advanced Tasks
+- Task 100 script converts a number from base 10 to base 16.
