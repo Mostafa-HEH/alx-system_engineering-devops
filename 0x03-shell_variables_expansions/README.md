@@ -8,5 +8,6 @@
 - Task 6 script creates a new local variable.
 - Task 7 script creates a new global variable.
 - Task 8 script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
-- Task 9 script that prints the result of POWER divided by DIVIDE, followed by a new line.
-- Task 10 script that displays the result of BREATH to the power LOVE.
+- Task 9 script prints the result of POWER divided by DIVIDE, followed by a new line.
+- Task 10 script displays the result of BREATH to the power LOVE.
+- task 11  script converts a number from base 2 to base 10.
