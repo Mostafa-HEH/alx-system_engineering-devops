@@ -9,3 +9,4 @@
 	- All your regex must be built for the Oniguruma library
 Task 0: The regular expression must match School.
 Task 1: Find the regular expression that will match the above cases.
+Task 2: Find the regular expression that will match the above cases
