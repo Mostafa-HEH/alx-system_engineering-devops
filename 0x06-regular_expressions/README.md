@@ -11,4 +11,5 @@ Task 0: The regular expression must match School.
 Task 1: Find the regular expression that will match the above cases.
 Task 2: Find the regular expression that will match the above cases.
 Task 3: Find the regular expression that will match the above cases.
-Task 4: Find the regular expression that will match the above cases
+Task 4: Find the regular expression that will match the above cases.
+Task 5: The regular expression must be exactly matching a string that starts with h ends with n and can have any single character in between.
